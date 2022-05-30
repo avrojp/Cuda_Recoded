@@ -1,3 +1,3 @@
-$(document).ready(function(){
-   var mixer = mixitup('.container'); 
+$(document).ready(function () {
+   var mixer = mixitup('.container');
 });
